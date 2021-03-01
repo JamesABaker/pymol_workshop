@@ -2,6 +2,16 @@
 
 ## Helpful 3rd party tutorials
 
+Sources for “inspiration”:
+
+ - [Jmol tutorial](https://www.umass.edu/molvis/workshop/osaka08s.htm)
+
+ - [Inkscape and protein structures](http://crosstalk.cell.com/blog/easy-and-simple-way-to-visualize-structural-biology-data)
+
+ - [Advanced tutorial, nicely organised](https://www.researchgate.net/profile/Annemarie_Honegger/publication/313877075_Advanced_PyMOL/links/58ac910aa6fdccac900b0a5f/Advanced-PyMOL.pdf)
+
+ - [Viewing electron density maps](http://www.virology.wisc.edu/acp/Tutorials/PyMol-E-density.pdf)
+
 ## Visualising proteins in Pymol
 
 ## Analysis Tools
