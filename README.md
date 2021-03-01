@@ -1,2 +1,7 @@
-# pymol_workshop
-Documents and commands for the EMBL-EBI 2021 pymol predoc workshop
+# PyMol Workshop
+
+## Visualising proteins in Pymol
+
+## Analysis Tools
+
+## Raytracing and image editing
